@@ -1,0 +1,22 @@
+C:\Users\enrif\source\repos\Homework2 - parser\Homework2 - parser\bin\Debug\Homework2 - parser.exe.config
+C:\Users\enrif\source\repos\Homework2 - parser\Homework2 - parser\bin\Debug\Homework2 - parser.exe
+C:\Users\enrif\source\repos\Homework2 - parser\Homework2 - parser\bin\Debug\Homework2 - parser.pdb
+C:\Users\enrif\source\repos\Homework2 - parser\Homework2 - parser\obj\Debug\Homework2 - parser.csproj.AssemblyReference.cache
+C:\Users\enrif\source\repos\Homework2 - parser\Homework2 - parser\obj\Debug\Homework2 - parser.csproj.SuggestedBindingRedirects.cache
+C:\Users\enrif\source\repos\Homework2 - parser\Homework2 - parser\obj\Debug\Homework2___parser.Form1.resources
+C:\Users\enrif\source\repos\Homework2 - parser\Homework2 - parser\obj\Debug\Homework2___parser.Properties.Resources.resources
+C:\Users\enrif\source\repos\Homework2 - parser\Homework2 - parser\obj\Debug\Homework2 - parser.csproj.GenerateResource.cache
+C:\Users\enrif\source\repos\Homework2 - parser\Homework2 - parser\obj\Debug\Homework2 - parser.csproj.CoreCompileInputs.cache
+C:\Users\enrif\source\repos\Homework2 - parser\Homework2 - parser\obj\Debug\Homework2 - parser.exe
+C:\Users\enrif\source\repos\Homework2 - parser\Homework2 - parser\obj\Debug\Homework2 - parser.pdb
+C:\Users\enrif\OneDrive\Documenti\Università\Magistrale\Statistics\homework2\Homework2 - parser\Homework2 - parser\bin\Debug\Homework2 - parser.exe.config
+C:\Users\enrif\OneDrive\Documenti\Università\Magistrale\Statistics\homework2\Homework2 - parser\Homework2 - parser\bin\Debug\Homework2 - parser.exe
+C:\Users\enrif\OneDrive\Documenti\Università\Magistrale\Statistics\homework2\Homework2 - parser\Homework2 - parser\bin\Debug\Homework2 - parser.pdb
+C:\Users\enrif\OneDrive\Documenti\Università\Magistrale\Statistics\homework2\Homework2 - parser\Homework2 - parser\obj\Debug\Homework2 - parser.csproj.AssemblyReference.cache
+C:\Users\enrif\OneDrive\Documenti\Università\Magistrale\Statistics\homework2\Homework2 - parser\Homework2 - parser\obj\Debug\Homework2 - parser.csproj.SuggestedBindingRedirects.cache
+C:\Users\enrif\OneDrive\Documenti\Università\Magistrale\Statistics\homework2\Homework2 - parser\Homework2 - parser\obj\Debug\Homework2___parser.Form1.resources
+C:\Users\enrif\OneDrive\Documenti\Università\Magistrale\Statistics\homework2\Homework2 - parser\Homework2 - parser\obj\Debug\Homework2___parser.Properties.Resources.resources
+C:\Users\enrif\OneDrive\Documenti\Università\Magistrale\Statistics\homework2\Homework2 - parser\Homework2 - parser\obj\Debug\Homework2 - parser.csproj.GenerateResource.cache
+C:\Users\enrif\OneDrive\Documenti\Università\Magistrale\Statistics\homework2\Homework2 - parser\Homework2 - parser\obj\Debug\Homework2 - parser.csproj.CoreCompileInputs.cache
+C:\Users\enrif\OneDrive\Documenti\Università\Magistrale\Statistics\homework2\Homework2 - parser\Homework2 - parser\obj\Debug\Homework2 - parser.exe
+C:\Users\enrif\OneDrive\Documenti\Università\Magistrale\Statistics\homework2\Homework2 - parser\Homework2 - parser\obj\Debug\Homework2 - parser.pdb
