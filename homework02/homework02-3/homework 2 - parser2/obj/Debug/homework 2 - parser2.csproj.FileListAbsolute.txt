@@ -1,0 +1,11 @@
+C:\Users\enrif\OneDrive\Documenti\Università\Magistrale\Statistics\homework2\homework 2 - parser2\homework 2 - parser2\obj\Debug\homework 2 - parser2.csproj.AssemblyReference.cache
+C:\Users\enrif\OneDrive\Documenti\Università\Magistrale\Statistics\homework2\homework 2 - parser2\homework 2 - parser2\obj\Debug\homework 2 - parser2.csproj.SuggestedBindingRedirects.cache
+C:\Users\enrif\OneDrive\Documenti\Università\Magistrale\Statistics\homework2\homework 2 - parser2\homework 2 - parser2\obj\Debug\homework_2___parser2.Form1.resources
+C:\Users\enrif\OneDrive\Documenti\Università\Magistrale\Statistics\homework2\homework 2 - parser2\homework 2 - parser2\obj\Debug\homework_2___parser2.Properties.Resources.resources
+C:\Users\enrif\OneDrive\Documenti\Università\Magistrale\Statistics\homework2\homework 2 - parser2\homework 2 - parser2\obj\Debug\homework 2 - parser2.csproj.GenerateResource.cache
+C:\Users\enrif\OneDrive\Documenti\Università\Magistrale\Statistics\homework2\homework 2 - parser2\homework 2 - parser2\obj\Debug\homework 2 - parser2.csproj.CoreCompileInputs.cache
+C:\Users\enrif\OneDrive\Documenti\Università\Magistrale\Statistics\homework2\homework 2 - parser2\homework 2 - parser2\bin\Debug\homework 2 - parser2.exe.config
+C:\Users\enrif\OneDrive\Documenti\Università\Magistrale\Statistics\homework2\homework 2 - parser2\homework 2 - parser2\bin\Debug\homework 2 - parser2.exe
+C:\Users\enrif\OneDrive\Documenti\Università\Magistrale\Statistics\homework2\homework 2 - parser2\homework 2 - parser2\bin\Debug\homework 2 - parser2.pdb
+C:\Users\enrif\OneDrive\Documenti\Università\Magistrale\Statistics\homework2\homework 2 - parser2\homework 2 - parser2\obj\Debug\homework 2 - parser2.exe
+C:\Users\enrif\OneDrive\Documenti\Università\Magistrale\Statistics\homework2\homework 2 - parser2\homework 2 - parser2\obj\Debug\homework 2 - parser2.pdb
