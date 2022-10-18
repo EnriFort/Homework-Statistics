@@ -1,0 +1,11 @@
+C:\Users\enrif\source\repos\homework3\homework3\bin\Debug\homework3.exe.config
+C:\Users\enrif\source\repos\homework3\homework3\bin\Debug\homework3.exe
+C:\Users\enrif\source\repos\homework3\homework3\bin\Debug\homework3.pdb
+C:\Users\enrif\source\repos\homework3\homework3\obj\Debug\homework3.csproj.AssemblyReference.cache
+C:\Users\enrif\source\repos\homework3\homework3\obj\Debug\homework3.csproj.SuggestedBindingRedirects.cache
+C:\Users\enrif\source\repos\homework3\homework3\obj\Debug\homework3.Form1.resources
+C:\Users\enrif\source\repos\homework3\homework3\obj\Debug\homework3.Properties.Resources.resources
+C:\Users\enrif\source\repos\homework3\homework3\obj\Debug\homework3.csproj.GenerateResource.cache
+C:\Users\enrif\source\repos\homework3\homework3\obj\Debug\homework3.csproj.CoreCompileInputs.cache
+C:\Users\enrif\source\repos\homework3\homework3\obj\Debug\homework3.exe
+C:\Users\enrif\source\repos\homework3\homework3\obj\Debug\homework3.pdb
